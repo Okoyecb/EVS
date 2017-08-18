@@ -1,0 +1,33 @@
+.navbar{
+  background-color: white;
+}
+
+.btn{
+  margin-right: 20px;
+  border: 1px solid red;
+    padding: 4px 2px 2px 4px; 
+    width: 100px;
+    border-radius: 25px;
+    background-color: white;
+    font-size: 17px;
+}
+.btn2{
+  background-color: red;
+  padding: 4px 2px 2px 4px; 
+    width: 150px;
+}
+.one{
+  margin-right: 10px;
+  font-size: 17px;
+}
+
+.lol{
+  font-size: 30px;
+  color: red;
+}
+.agile{
+    background: url(../img/party.jpg);
+    background-size:cover;
+    min-height:400px;
+    min-width: 100%;
+}
